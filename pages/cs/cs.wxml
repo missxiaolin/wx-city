@@ -1,0 +1,3 @@
+<!--pages/cs/cs.wxml-->
+<import src="../switchcity/city.wxml" />
+<template is="city" data="{{...city}}"/>
